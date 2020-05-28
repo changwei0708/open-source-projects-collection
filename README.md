@@ -36,3 +36,11 @@
 |[apache/dubbo](https://github.com/apache/dubbo)
 | Apache Dubbo is a high-performance, java based, open source RPC framework.
 |32.5k|
+
+# Go
+
+| 项目  | 简介                             | Star数                                 |
+| ---- | ------------------------------- | ---- |
+|[hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects)
+| Apache Dubbo is a high-performance, java based, open source RPC framework.
+|32.5k|
